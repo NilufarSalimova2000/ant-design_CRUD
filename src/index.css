@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.wrapper {
+  height: 100%;
+}
+
+.login_block {
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 200px;
+  border: 1px solid #1677FF;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+}
